@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = logicaljordan247@gmail.com
+	name = Jordan Patel
